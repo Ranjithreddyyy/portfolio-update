@@ -52,7 +52,7 @@ function Portfolio() {
                     breakdown of airline ticket costs, including base fares,
                     taxes, surcharges, baggage fees, and other ancillary
                     charges. The tool offers travelers transparency in pricing,
-                    helping them to make informed decisions when>
+                    helping them to make informed decisions when
                     booking flights.
                   </p>
                   <a
